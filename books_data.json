@@ -1,9 +1,16 @@
 [
     {
-      "title": "Mere Pass FIlhal Tum Ho",
-      "author": "Safia Ali",
-      "year": "2025",
-      "genre": "Drama",
-      "read": true
+        "title": "Mere Pass Filhal Tum Ho",
+        "author": "Safia Ali",
+        "year": "2025",
+        "genre": "drama",
+        "read": true
+    },
+    {
+        "title": "The Neem Tree",
+        "author": "William",
+        "year": "1998",
+        "genre": "poetry",
+        "read": false
     }
-  ]
+]
